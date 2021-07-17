@@ -1,0 +1,46 @@
+body {
+    background-color: #c0fdff;
+}
+
+button {
+    font-size: 30px;
+    background-color:  #d8bbff;
+}
+
+h1, h2 {
+background-color: #deaaff;
+}
+
+#signup {
+    background-color: #ffcbf2;
+    color: #c77dff;
+}
+
+span {
+    color:#4361ee;
+}
+
+.tag {
+    background-color: aqua;
+}
+
+.post a {
+color: #822faf;
+}
+
+footer a{
+    color: #6411ad;
+}
+
+input + button {
+    background-color: rgb(5, 176, 182);
+}
+
+h2 + button {
+    font-size: 20px;
+    background-color: magenta;
+}
+
+footer > a {
+    color: #57cc99;
+}
